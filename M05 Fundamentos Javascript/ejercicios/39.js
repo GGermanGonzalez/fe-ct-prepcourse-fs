@@ -5,7 +5,7 @@ function numeroRandom() {
   // Tu código:
   a=Math.random()
  return a
- console.log(a)
+ 
 }
-numeroRandom()
+console.log(numeroRandom())
 module.exports = numeroRandom;
